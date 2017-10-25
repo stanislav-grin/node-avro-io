@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "buffer-crc32": "^0.2.5",
-    "int64-native": "git+https://git@github.com/stanislav-grin/int64-native.git",
+    "int64-native": "stanislav-grin/node-int64-native",
     "lodash": "^2.4.1",
     "snappy": "^5.0.5"
   },
